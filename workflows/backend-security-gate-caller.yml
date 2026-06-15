@@ -14,7 +14,7 @@ on:
 
 jobs:
   backend-security-checks:
-    uses: AchuDexQBit/backend-audit/.github/workflows/backend-security-gate.yml@master
+    uses: DexQBit/backend-audit/.github/workflows/backend-security-gate.yml@master
     permissions:
       contents: read
       pull-requests: read

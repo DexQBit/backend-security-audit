@@ -1,5 +1,5 @@
 {
-  "name": "@AchuDexQBit/backend-audit",
+  "name": "@DexQBit/backend-audit",
   "version": "1.4.0",
   "description": "Shared backend structure and security audit tool for Node.js/Express projects",
   "type": "module",
@@ -14,7 +14,7 @@
     "workflows/"
   ],
   "scripts": {
-    "prepublishOnly": "echo 'Publishing @AchuDexQBit/backend-audit'"
+    "prepublishOnly": "echo 'Publishing @DexQBit/backend-audit'"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AchuDexQBit/backend-audit.git"
+    "url": "git+https://github.com/DexQBit/backend-audit.git"
   },
   "keywords": ["security", "audit", "nodejs", "express", "static-analysis"],
   "license": "UNLICENSED",
